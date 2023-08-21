@@ -1,0 +1,21 @@
+/* Add google font Work sans */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700&display=swap');
+header{
+    background-color: rgba(255, 144, 14, 0.10);
+}
+nav{
+    padding: 30px 150px;
+    display: flex;
+    justify-content: space-between;
+}
+nav > ul {
+    display: flex;
+    list-style: none;
+}
+nav li {
+    margin-left: 40px;
+}
+.header-description h1 p button{
+    justify-content: center;
+
+}
